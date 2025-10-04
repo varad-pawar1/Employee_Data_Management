@@ -220,7 +220,20 @@ This project is licensed under the **MIT License**.
 #### Employee Data Management
 [View Project](https://github.com/varad-pawar1/Employee_Data_Management)
 
-![Employee Data Management Screenshot]()  
+#### Employee Data Management Screenshot
+
+<img width="835" height="821" alt="Screenshot 2025-10-04 161354" src="https://github.com/user-attachments/assets/b010d406-7391-4647-aa8d-7d7d61d799ba" />
+<img width="469" height="1359" alt="screencapture-employee-data-management-frontend-yqpc-onrender-2025-10-04-16_20_57" src="https://github.com/user-attachments/assets/bdb298aa-4716-43b0-869b-865065f82cfa" />
+<img width="513" height="801" alt="screencapture-employee-data-management-frontend-yqpc-onrender-2025-10-04-16_21_22" src="https://github.com/user-attachments/assets/35dc36c6-9de1-46d8-8f95-c068c6b3c477" />
+<img width="960" height="1400" alt="screencapture-employee-data-management-frontend-yqpc-onrender-2025-10-04-16_21_37" src="https://github.com/user-attachments/assets/f6467172-73e5-4ed5-a7f4-204280f913ae" />
+
+<img width="789" height="838" alt="Screenshot 2025-10-04 161420" src="https://github.com/user-attachments/assets/0bbb306d-c40e-4c8f-953f-f1e84a06fc51" />
+<img width="791" height="810" alt="Screenshot 2025-10-04 161443" src="https://github.com/user-attachments/assets/bd22615f-01fd-4fb3-89f7-f1f4e7ade0bf" />
+<img width="812" height="815" alt="Screenshot 2025-10-04 161511" src="https://github.com/user-attachments/assets/87851f53-86b7-425d-afec-eceed2713d56" />
+<img width="1571" height="875" alt="Screenshot 2025-10-04 161605" src="https://github.com/user-attachments/assets/9ca0acbc-6e56-4f1e-b9b5-89b7c4c7ce75" />
+<img width="1525" height="768" alt="Screenshot 2025-10-04 161654" src="https://github.com/user-attachments/assets/8513518c-3ede-4c6a-92b4-96584bbe2559" />
+<img width="1590" height="897" alt="Screenshot 2025-10-04 161716" src="https://github.com/user-attachments/assets/bb75fc59-eb60-4c7b-803a-9a813e8623a7" />
+
 
 ```
 
