@@ -7,8 +7,8 @@ It uses an **Express + SQLite (TypeScript)** backend and a **React + Vite (TypeS
 
 ## 🚀 Live Demo
 
-- **Frontend:** [https://employee-data-management-frontend.onrender.com](https://employee-data-management-frontend.onrender.com)
-- **Backend API:** [https://employee-data-management-frontend-yqpc.onrender.com](https://employee-data-management-frontend-yqpc.onrender.com)
+- **Frontend:** [https://employee-data-management-frontend-yqpc.onrender.com](https://employee-data-management-frontend-yqpc.onrender.com)
+- **Backend API:** [https://employee-data-management-frontend.onrender.com](https://employee-data-management-frontend.onrender.com)
 
 ---
 
