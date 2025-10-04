@@ -7,8 +7,8 @@ It uses an **Express + SQLite (TypeScript)** backend and a **React + Vite (TypeS
 
 ## 🚀 Live Demo
 
-- **Frontend:** []()
-- **Backend API:** [https://employee-backend-o6uz.onrender.com](https://employee-backend-o6uz.onrender.com)
+- **Frontend:** [https://employee-data-management-frontend.onrender.com](https://employee-data-management-frontend.onrender.com)
+- **Backend API:** [https://employee-data-management-frontend-yqpc.onrender.com](https://employee-data-management-frontend-yqpc.onrender.com)
 
 ---
 
@@ -106,9 +106,6 @@ VITE_APP_TITLE=Employee Management System
 > 💡 `VITE_API_BASE_URL` points to your backend API.
 > In production, update it to your hosted backend URL, for example:
 >
-> ```env
-> VITE_API_BASE_URL=http://localhost:5173//api
-> ```
 
 ---
 
@@ -217,4 +214,4 @@ This project is licensed under the **MIT License**.
 
 **Varad Pawar**
 🎓 BCA Graduate | 💻 Full Stack Developer
-🌐 [GitHub](https://github.com/varad-pawar1/Employee-Data-Management)
+🌐 [GitHub](https://github.com/varad-pawar1/Employee_Data_Management)
