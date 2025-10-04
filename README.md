@@ -214,4 +214,13 @@ This project is licensed under the **MIT License**.
 
 **Varad Pawar**
 🎓 BCA Graduate | 💻 Full Stack Developer
-🌐 [GitHub](https://github.com/varad-pawar1/Employee_Data_Management)
+🌐 [GitHub](https://github.com/varad-pawar1)
+
+
+#### Employee Data Management
+[View Project](https://github.com/varad-pawar1/Employee_Data_Management)
+
+![Employee Data Management Screenshot]()  
+
+```
+
